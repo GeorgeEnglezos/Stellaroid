@@ -1,4 +1,4 @@
-# Stellaroid
+# Stellaroid (Sep 05, 2021)
 
 A 2D Asteroids-style space shooter made in Unity. Fly a spaceship, blast asteroids and enemy ships, collect drops, and chase a high score.
 Started around September 2021.
