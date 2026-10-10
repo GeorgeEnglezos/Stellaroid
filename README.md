@@ -1,7 +1,6 @@
 # Stellaroid
 
-A 2D Asteroids-style space shooter made in Unity. Fly a spaceship, blast asteroids and enemy ships, collect drops, and chase a high score. Supports desktop (keyboard) and mobile (gyroscope) builds.
-
+A 2D Asteroids-style space shooter made in Unity. Fly a spaceship, blast asteroids and enemy ships, collect drops, and chase a high score.
 Started around September 2021.
 
 **Play it in the browser:** https://georgeenglezos.github.io/Stellaroid/ (also on [itch.io](https://judge-g.itch.io/stellaroid))
