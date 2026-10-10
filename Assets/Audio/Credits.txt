@@ -1,0 +1,5 @@
+Music: 'Of Far Different Nature - Eternal Explorer (CC-BY 4.0)' by Of Far Different Nature
+laser sound: Murkje
+canon sound: GameSupplyGuy
+explosion sound: Kronbits
+pick up sound by: GameSupplyGuy
